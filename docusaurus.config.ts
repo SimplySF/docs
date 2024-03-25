@@ -83,8 +83,12 @@ const config: Config = {
           title: "Docs",
           items: [
             {
-              label: "Plugins",
-              to: "/docs/plugins",
+              label: "data",
+              to: "/docs/data",
+            },
+            {
+              label: "package",
+              to: "/docs/package",
             },
           ],
         },
