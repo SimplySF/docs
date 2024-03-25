@@ -68,6 +68,7 @@ const config: Config = {
           position: "left",
           label: "Docs",
         },
+        { to: "blog", label: "Blog", position: "left" },
         {
           href: "https://github.com/SimplySF",
           position: "right",
@@ -83,12 +84,8 @@ const config: Config = {
           title: "Docs",
           items: [
             {
-              label: "data",
-              to: "/docs/data",
-            },
-            {
-              label: "package",
-              to: "/docs/package",
+              label: "plugin",
+              to: "/docs/plugin",
             },
           ],
         },
