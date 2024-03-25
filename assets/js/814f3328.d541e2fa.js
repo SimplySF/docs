@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksimplysf=self.webpackChunksimplysf||[]).push([[472],{5513:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Announcing SimplySF","permalink":"/blog/2024/03/24/announcing-simplysf","unlisted":false}]}')}}]);

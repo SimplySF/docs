@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksimplysf=self.webpackChunksimplysf||[]).push([[267],{8289:e=>{e.exports=JSON.parse('[{"label":"release","permalink":"/blog/tags/release","count":1}]')}}]);
